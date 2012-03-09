@@ -4,15 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Murat Çorlu: PhoneGap Test Uygulaması</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		PhoneGap ile uygulama geliştirme denemesi
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://muratcorlu.com"
+		email="muratcorlu@gmail.com">
+		Murat Çorlu
 	</author>
 
 	<icon src="icon.png" gap:role="default" />
